@@ -16,7 +16,7 @@ const refreshPage = () => {
     <div class="flex justify-center text-center items-center h-screen">
       <div>
         <div class="flex justify-center items-center">
-          <img src="@/assets/img/logo/logo.png" class="w-[100px] mb-5" alt="" />
+          <img src="@/assets/img/logo/logo.svg" class="w-[100px] mb-5" alt="" />
         </div>
 
         <div
